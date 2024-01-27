@@ -66,5 +66,6 @@ const deleteItem = (id) =>{
   </>
   )
 }
+// feel free to add some stuffs here to improve this logic :)
 
 export default App;
